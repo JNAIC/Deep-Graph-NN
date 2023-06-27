@@ -1,5 +1,5 @@
 # Deep Graph Networks for Large-Scale Graph Node Embedding Classification on Scientific Publication
-
+![Visualization of PubMed Using Gephi]<https://github.com/JNAIC/Deep-Graph-NN/edit/main/Visualization_of_PubMed.gif>
 This repository contains the code implementation for the research study titled "Deep Graph Networks for Large-Scale Graph Node Embedding Classification on Scientific Publication". The code includes the training process, model design, visualization, and other relevant functionalities.
 
 ## Table of Contents
