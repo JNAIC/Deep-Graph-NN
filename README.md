@@ -2,6 +2,7 @@
 
 ![Visualization](https://s2.loli.net/2023/06/27/toOEmcvIraLUTHJ.gif)
 
+![Whole Process](https://github.com/JNAIC/Deep-Graph-NN/blob/main/Overall.png)
 This repository contains the code implementation for the research study titled "Deep Graph Networks for Large-Scale Graph Node Embedding Classification on Scientific Publication". The code includes the training process, model design, visualization, and other relevant functionalities.
 
 ## Table of Contents
